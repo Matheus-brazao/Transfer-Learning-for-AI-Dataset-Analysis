@@ -1,5 +1,5 @@
 # Dataset AI: Transfer Learning (Baseline vs VGG16)
-> This project was developed as part of the DIO (Digital Innovation One) course on Deep Learning.
+> This project was developed as part of the DIO (Digital Innovation One) course on Deep Learning Bootcamp.
 
 
 This project reproduces the **baseline CNN** and **transfer learning with VGG16** experiment.
